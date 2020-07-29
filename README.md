@@ -3,7 +3,7 @@
 
 **Objetivos:**
  - Mejorar capacidad de resolucion de problemas utilizando JavaScript 
- - Practivar la implementacion de Github en el dia a dia
+ - Practicar la implementacion de Github en el dia a dia
  
  
 
