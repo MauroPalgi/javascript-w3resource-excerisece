@@ -1,4 +1,4 @@
-# javascript-w3resource-excerisece
+# javascript-w3resource-exercise
 
 
 **Objetivos:**
