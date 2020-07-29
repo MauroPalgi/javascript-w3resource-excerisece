@@ -8,7 +8,7 @@
  
 
 ------------
-**Recurso: **
+**Recurso:**
 [www.w3resource.com](https://www.w3resource.com/javascript-exercises/ "www.w3resource.com")
 
 
