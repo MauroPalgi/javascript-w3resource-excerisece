@@ -101,8 +101,9 @@ const excercise9 = () => {
 // of two numbers
 
 const excercise10 = (num, num2) => {
-  console.log(`Resultado división: ${num / num2}`);
-  console.log(`Resultado multiplicación: ${num * num2}`);
+  return `Resultado división: ${num / num2}, Resultado multiplicación: ${
+    num * num2
+  }`;
 };
 
 // 11. Write a JavaScript program to convert temperatures to and
@@ -117,7 +118,6 @@ const excercise11 = () => {
     prompt("Ingrese Fahrenheit,ó ingrese 0 para Celsius")
   );
   const celsius = Number(prompt("Ingrese Celsius"));
-  debugger;
   if (fahrenheit !== 0) {
     console.log(`Celsius: ${(fahrenheit - 32) * (5 / 9)}`);
   }
@@ -211,7 +211,6 @@ const excercise21 = (string = "") => {
 
 const excercise22 = (character, string) => {
   const index = string.lastIndexOf(character);
-  console.log(index);
   if (index !== -1) {
     return `${string.slice(0, index)}${string.slice(index + 1, string.length)}`;
   }
